@@ -5,5 +5,8 @@
 
 layout: home
 ---
+Home
+====
+
 ![`your_name`](./images/mathew_rogers.png){:height="60%" width="60%"}
 
