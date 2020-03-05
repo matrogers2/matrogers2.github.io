@@ -6,24 +6,16 @@ permalink: docs
 # Docs
 
 
+## Resume
 
-## Configuration
+A full resume is available on my [LinkedIn](https://www.linkedin.com/in/rogersmontreal/) page.
 
-This theme can be configured by modifying the `_config.yml` file.
+## Publications
 
-### Theme settings
+To date most of my publications are in number theory. A full list of papers can be found on my [Google Scholar](https://scholar.google.ca/citations?user=cnec4HkAAAAJ&hl=fr) or [Orcid ID](https://orcid.org/0000-0001-9163-4890) pages. Most of my papers are also available as preprints on the [Arxives](https://arxiv.org/a/rogers_m_1.html).
 
-This theme supports three different mode provided by `hack.css`:
+## Talks
 
-- `standard`
-- `markdown`
-- `dark`
 
-Set `theme_mode` to the desired value.
 
-### Available customizations
 
-- `your_name` and `email` strings to display them in different places on site
-- `navigation` is an array of `text` and `url` pairs to render the menu
-- `projects` is a setting that contains data for the `examples` page, every item must contain `name` and `link`, `image` and `description` are optional
-- `social` contains an array of three required params: `service` is used to include a service icon by the {% raw %}`{% include icon-{{ service }}.html %}`{% endraw %} command, `username` and `link` are quite obvious
