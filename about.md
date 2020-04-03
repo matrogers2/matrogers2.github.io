@@ -1,12 +1,20 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+permalink: about
 ---
-About Me
-========
 
-I have a PhD in number theory from the [University of British Columbia](https://www.math.ubc.ca/) in Vancouver. After graduation I held postdoctoral positions at [UIUC](https://math.illinois.edu/), [Max Planck](https://www.mpim-bonn.mpg.de/), and the [University of Montreal](https://dms.umontreal.ca/en/). My research has always been experimental, so I naturally gravitated towards machine learning while working as a mathematician in the Pavillon André-Aisenstadt (the building on the cover of the [deep-learning book](https://www.deeplearningbook.org/)):
+# About
 
+## Background
 
-I spent nine months at [MILA](https://mila.quebec/en/) before moving into the private sector. I have worked as a computer vision researcher at [Clemex Technologies](https://www.clemex.com/), and I am currently employed as a data scientist at [Via Science](https://www.solvewithvia.com/). In my spare time I enjoy cycling and experimenting with neural artwork for [Instagram](https://www.instagram.com/matrogersmtl).
+I have a PhD in number theory from the [University of British Columbia](https://www.math.ubc.ca/) in Vancouver. After graduation I held postdoctoral positions at the [University of Illinois](https://math.illinois.edu/), [Max Planck](https://www.mpim-bonn.mpg.de/), and [Université de Montréal](https://dms.umontreal.ca/en/). My Erdős number is 3.
+
+While I was working as a mathematician on the fourth-floor of the Pavillon André-Aisenstadt (the building on the cover of the [deep-learning book](https://www.deeplearningbook.org/)), I learned about the spectacular advances in machine learning taking place on the third-floor. I switched fields, and spent nine months at [MILA](https://mila.quebec/en/) before moving into the private sector. Since then I have worked as a computer vision researcher at [Clemex Technologies](https://www.clemex.com/), and as a data scientist at [Via Science](https://www.solvewithvia.com/).
+
+## Resume
+
+A full resume is available on my [LinkedIn](https://www.linkedin.com/in/rogersmontreal/) page.
+
+## Publications
+
+Most of my publications (so far) are in number theory. A full list can be found on [Google Scholar](https://scholar.google.ca/citations?user=cnec4HkAAAAJ&hl=fr) or [Orcid](https://orcid.org/0000-0001-9163-4890). Many of my papers are also available as preprints on the [Arxives](https://arxiv.org/a/rogers_m_1.html).

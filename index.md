@@ -9,5 +9,4 @@ Mathew Rogers
 
 ![`your_name`](./images/mathew_rogers.png){:height="60%" width="60%"}
 
-I am a Montreal based data scientist, currently working for [Via Science](https://www.solvewithvia.com/). I hold a PhD in mathematics from the [University of British Columbia](https://www.math.ubc.ca/).   
-
+I am a Montreal data scientist, currently working for [Via Science](https://www.solvewithvia.com/).  I specialize in problems involving machine learning and applied math. I hold a PhD in mathematics from the [University of British Columbia](https://www.math.ubc.ca/).

@@ -5,10 +5,6 @@ permalink: examples
 
 <section>
   <h1>Blog</h1>
-
-  <p>
-    This is more like an example page with different widgets.
-  </p>
 </section>
 
 <section>
@@ -56,38 +52,38 @@ permalink: examples
   {% endfor %}
 </section>
 
-<section>
+<!--<section>-->
 
-  <h2>Cards</h2>
+<!--  <h2>Cards</h2>-->
 
-  <div class="grid t-hackcss-cards">
+<!--  <div class="grid t-hackcss-cards">-->
 
-    {% for project in site.projects %}
+<!--    {% for project in site.projects %}-->
 
-    <div class="cell -6of12 t-hackcss-cards-cell">
-      <div class="card">
-        <header class="card-header">{{ project.name }}</header>
-        <div class="card-content">
-          <div class="inner">
+<!--    <div class="cell -6of12 t-hackcss-cards-cell">-->
+<!--      <div class="card">-->
+<!--        <header class="card-header">{{ project.name }}</header>-->
+<!--        <div class="card-content">-->
+<!--          <div class="inner">-->
 
-            {% if project.image %}
-            <img src="{{ project.image }}" class="t-hackcss-cards-image"
-                 alt="{{ project.name }}"
-                 title="{{ project.name }}" />
-            {% endif %}
+<!--            {% if project.image %}-->
+<!--            <img src="{{ project.image }}" class="t-hackcss-cards-image"-->
+<!--                 alt="{{ project.name }}"-->
+<!--                 title="{{ project.name }}" />-->
+<!--            {% endif %}-->
 
-            <p class="t-hackcss-cards-text">{{ project.description }}</p>
-            <p class="t-hackcss-cards-link">
-              <a href="{{ project.link }}" title="{{ project.name }}" target="_blank">
-                 {{ project.name }}
-               </a>
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
+<!--            <p class="t-hackcss-cards-text">{{ project.description }}</p>-->
+<!--            <p class="t-hackcss-cards-link">-->
+<!--              <a href="{{ project.link }}" title="{{ project.name }}" target="_blank">-->
+<!--                 {{ project.name }}-->
+<!--               </a>-->
+<!--            </p>-->
+<!--          </div>-->
+<!--        </div>-->
+<!--      </div>-->
+<!--    </div>-->
 
-    {% endfor %}
+<!--    {% endfor %}-->
 
-  </div>
-</section>
+<!--  </div>-->
+<!--</section>-->
