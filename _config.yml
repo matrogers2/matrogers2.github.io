@@ -42,7 +42,7 @@ social:
   - service: twitter
     username: matrogersmtl
     link: https://twitter.com/matrogersmtl
-  - service: instagram
-    username: matrogersmtl
-    link: https://instagram.com/matrogersmtl
+#  - service: instagram
+#    username: matrogersmtl
+#    link: https://instagram.com/matrogersmtl
 
