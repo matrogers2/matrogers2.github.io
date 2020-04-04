@@ -14,13 +14,13 @@ permalink: examples
     {% assign nth = forloop.index0 | modulo:2 %}
     <div class="media">
 
-      {% if nth == 0 %}
-      <div class="t-hackcss-media-shift media-left">
-        <img class="t-hackcss-media-image"
-             src="{{ post.image_preview }}" alt="{{ post.title }}"
-             title="{{ post.title }}" />
-      </div>
-      {% endif %}
+<!--      {% if nth == 0 %}-->
+<!--      <div class="t-hackcss-media-shift media-left">-->
+<!--        <img class="t-hackcss-media-image"-->
+<!--             src="{{ post.image_preview }}" alt="{{ post.title }}"-->
+<!--             title="{{ post.title }}" />-->
+<!--      </div>-->
+<!--      {% endif %}-->
 
       <div class="media-body">
         <div class="media-heading">
@@ -41,13 +41,13 @@ permalink: examples
         </div>
       </div>
 
-      {% if nth == 1 %}
-      <div class="t-hackcss-media-shift media-right">
-        <img class="t-hackcss-media-image"
-             src="{{ post.image_preview }}" alt="{{ post.title }}"
-             title="{{ post.title }}" />
-      </div>
-      {% endif %}
+<!--      {% if nth == 1 %}-->
+<!--      <div class="t-hackcss-media-shift media-right">-->
+<!--        <img class="t-hackcss-media-image"-->
+<!--             src="{{ post.image_preview }}" alt="{{ post.title }}"-->
+<!--             title="{{ post.title }}" />-->
+<!--      </div>-->
+<!--      {% endif %}-->
     </div>
   {% endfor %}
 </section>

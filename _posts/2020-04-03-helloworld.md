@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hello World
+title: First blog post
 date: 2020-04-03 23:14:12
 author: matrogersmtl
 categories: python
-short_description: First blog post 
+short_description: Hello world!
 ---
-Hello World! This is my first blog post. More soon.
+Hello World! More soon.
