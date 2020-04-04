@@ -1,2 +1,4 @@
 # matrogersmtl.github.io
-Web Page
+
+Homepage in progress
+

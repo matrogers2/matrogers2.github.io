@@ -4,3 +4,9 @@
 
 layout: home
 ---
+Home
+====
+
+![`Mathew Rogers`](./images/mathew_rogers.png){:height="60%" width="60%"}
+
+I am a data scientist, working for [Via Science](https://www.solvewithvia.com/) in Montreal.  I specialize in problems involving machine learning and applied math. I hold a PhD in mathematics from the [University of British Columbia](https://www.math.ubc.ca/).
