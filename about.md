@@ -7,9 +7,9 @@ permalink: about
 
 ## Background
 
-I have a PhD in number theory from the [University of British Columbia](https://www.math.ubc.ca/). After graduation I held postdoctoral positions at the [University of Illinois](https://math.illinois.edu/), [Max Planck](https://www.mpim-bonn.mpg.de/), and [Université de Montréal](https://dms.umontreal.ca/en/). My Erdős number is 3.
+I have a PhD in number theory from the [University of British Columbia](https://www.math.ubc.ca/). After graduating, I held postdoctoral positions at the [University of Illinois](https://math.illinois.edu/), [Max Planck](https://www.mpim-bonn.mpg.de/), and [Université de Montréal](https://dms.umontreal.ca/en/). My Erdős number is 3.
 
-While I was working as a mathematician in the Pavillon André-Aisenstadt ([this building](https://www.google.com/books/edition/Deep_Learning/omivDQAAQBAJ?hl=en&gbpv=1&printsec=frontcover)), I heard about the spectacular advances in machine learning taking place downstairs. I switched fields, eventually spending nine months at [MILA](https://mila.quebec/en/) before moving into the private sector. I have since worked as a computer vision researcher at [Clemex Technologies](https://www.clemex.com/), and as a data scientist at [Via Science](https://www.solvewithvia.com/).
+I first heard about the spectacular advances in machine learning in 2012, while I was working as a mathematician in the Pavillon André-Aisenstadt ([this building](https://www.google.com/books/edition/Deep_Learning/omivDQAAQBAJ?hl=en&gbpv=1&printsec=frontcover)). I switched fields, and eventually spent nine months at [MILA](https://mila.quebec/en/) before moving into the private sector. I have since worked as a computer vision researcher at [Clemex Technologies](https://www.clemex.com/), and as a data scientist at [Via Science](https://www.solvewithvia.com/).
 
 ## Resume
 

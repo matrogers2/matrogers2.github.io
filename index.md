@@ -4,8 +4,8 @@
 
 layout: home
 ---
-Mathew Rogers
-=============
+Home
+====
 
 ![`Mathew Rogers`](./images/mathew_rogers.png){:height="60%" width="60%"}
 
