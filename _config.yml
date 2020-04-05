@@ -36,6 +36,9 @@ navigation:
     url: /examples
 
 social:
+  - service: linkedin
+    username: rogersmontreal
+    link: https://ca.linkedin.com/in/rogersmontreal
   - service: github
     username: matrogersmtl
     link: https://github.com/matrogersmtl
