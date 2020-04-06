@@ -7,7 +7,7 @@ permalink: about
 
 ## Resume
 
-A full resume is available on my [LinkedIn](https://www.linkedin.com/in/rogersmontreal/) page.
+A full resume is available on my [Linkedin](https://www.linkedin.com/in/rogersmontreal/) page.
 
 ## Background
 
