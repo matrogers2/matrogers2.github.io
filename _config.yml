@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: matrogersmtl.github.io
+title: matrogersmtl.com
 description: > # this means to ignore newlines until "baseurl:"
   Data science, deep learning, number theory
 repository: https://github.com/matrogersmtl/matrogersmtl.github.io
 baseurl: ""  # the subpath of your site, e.g. /blog
-url: https://matrogersmtl.github.io  # the base hostname & protocol for your site
+url: www.matrogersmtl.com  # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
@@ -33,7 +33,7 @@ navigation:
   - text: About
     url: /about
   - text: Blog
-    url: /examples
+    url: /blog
 
 social:
   - service: linkedin
