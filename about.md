@@ -7,7 +7,7 @@ permalink: about
 
 ## Resume
 
-My full resume is available on my [Linkedin](https://www.linkedin.com/in/rogersmontreal/).
+My resume is available on [Linkedin](https://www.linkedin.com/in/rogersmontreal/).
 
 ## Background
 
@@ -17,4 +17,4 @@ I became interested in machine learning in 2012, while working as a mathematicia
 
 ## Publications
 
-So far most of my publications are in number theory. A full list can be found on [Google Scholar](https://scholar.google.ca/citations?user=cnec4HkAAAAJ&hl=fr) or [Orcid](https://orcid.org/0000-0001-9163-4890). Many of my papers are also available on the [Arxives](https://arxiv.org/a/rogers_m_1.html).
+Most of my publications (so far) are in number theory. A full list can be found on [Google Scholar](https://scholar.google.ca/citations?user=cnec4HkAAAAJ&hl=fr) or [Orcid](https://orcid.org/0000-0001-9163-4890). Many papers are also available on the [Arxives](https://arxiv.org/a/rogers_m_1.html).
