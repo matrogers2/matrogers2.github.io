@@ -42,9 +42,9 @@ social:
   - service: github
     username: matrogersmtl
     link: https://github.com/matrogersmtl
-#  - service: twitter
-#    username: matrogersmtl
-#    link: https://twitter.com/matrogersmtl
+  - service: twitter
+    username: matrogersmtl
+    link: https://twitter.com/matrogersmtl
 #  - service: instagram
 #    username: matrogersmtl
 #    link: https://instagram.com/matrogersmtl
