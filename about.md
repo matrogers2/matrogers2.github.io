@@ -17,4 +17,4 @@ I became interested in machine learning in 2012, while working as a mathematicia
 
 ## Publications
 
-My papers are available on [Google Scholar](https://scholar.google.ca/citations?user=cnec4HkAAAAJ&hl=fr) or [Orcid](https://orcid.org/0000-0001-9163-4890). Many preprints are also available on the [Arxives](https://arxiv.org/a/rogers_m_1.html).
+My papers are available on [Google Scholar](https://scholar.google.ca/citations?user=cnec4HkAAAAJ&hl=fr) or [Orcid](https://orcid.org/0000-0001-9163-4890). Preprints are also available on the [Arxives](https://arxiv.org/a/rogers_m_1.html).
