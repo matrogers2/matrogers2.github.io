@@ -5,4 +5,4 @@ date: 2020-04-03 23:14:12
 author: matrogersmtl
 categories: python
 ---
-[More soon](https://medium.com/@matrogersmtl).
+More soon
