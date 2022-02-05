@@ -9,4 +9,4 @@ Home
 
 ![`Mathew Rogers`](./images/mathew_rogers.png){:height="60%" width="60%"}
 
-I am a data scientist in Montreal, Canada. I specialize in machine learning, applied math, and streaming data. I am a graduate of the [University of British Columbia](https://www.math.ubc.ca/).
+I am a data scientist in Montreal, specializing in machine learning, applied math, and streaming data. I graduated from the [University of British Columbia](https://www.math.ubc.ca/).
