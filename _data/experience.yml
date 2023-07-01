@@ -3,7 +3,7 @@
 - company: Shopify
   position: Senior Data Scientist
   duration: 2021 &mdash; 2022
-  summary: Implemented real time metric calculations for the Shopify Inbox platform. Joined and aggregated multiple Kafka streams using Scala and Apache Flink. Utilized various streaming data design patterns, and test-driven development. 
+  summary: Worked on implementing real time metric calculations for the Shopify Inbox platform. Joined and aggregated multiple Kafka streams using Scala and Apache Flink. Utilized various streaming data design patterns, and test-driven development. 
 
 
 # Director of Digital Stratgy
