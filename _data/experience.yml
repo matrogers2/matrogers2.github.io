@@ -6,11 +6,11 @@
   summary: Worked on implementing real time metric calculations for the Shopify Inbox platform. Joined and aggregated multiple Kafka streams using Scala and Apache Flink. Utilized various streaming data design patterns, and test-driven development. 
 
 
-# Director of Digital Stratgy
+# Deep Learning Principle
 - company: Via Science
   position: Deep Learning Principle
   duration:  2017 &mdash; 2021
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience. <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: Numerous projects involving machine learning, data science, and time-series forecasting in the energy sector. <ul class="resume-item-list"><li>Prototyped machine learning based data ingestion pipelines, in order to ingest smart meter data from multiple sources into a standarized schema.</li><li>Fine-tuned and dockerized various BERT based models for NLP related tasks.</li><li>Contributed to federated learning, homeomorphic encryption, and differential privacy projects.</li><li>Prepared project proposals for clients.</li></ul>
 
 
 # Communications Coordinator
