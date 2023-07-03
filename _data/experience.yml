@@ -3,7 +3,7 @@
 - company: Shopify
   position: Senior Data Scientist
   duration: 2021 &mdash; 2022
-  summary: Worked on implementing real time metrics for the Shopify Inbox platform. Joined and aggregated multiple Kafka streams using Scala and Apache Flink. Utilized various streaming data design patterns and test-driven development. 
+  summary: Worked on implementing real time metrics for the Shopify Inbox platform. Joined and aggregated multiple Kafka streams using Scala and Apache Flink. Utilized various streaming data algorithms and test-driven development. 
 
 
 # Deep Learning Principle
@@ -25,5 +25,15 @@
 - company: MILA, Université de Montréal
   position: Graduate Student
   duration: 2014 &mdash; 2015
-  summary: Experience as a student working in the LISA lab (now MILA) developing Theano and Pylearn2. Completed a full graduate-level computer science programme.
+  summary: Experience as a student working in the LISA lab (now MILA) developing Theano and Pylearn2. Completed a full set of graduate-level computer science courses.
 
+- company: Université de Montréal and CRM
+  position: Postdoctoral fellow
+  duration: 2011 &mdash; 2013
+  summary: Researcher at the Université de Montréal and the Centre de Recherches Mathématiques (CRM). Teaching duties at McGill University and Concordia University.
+
+- company: University of Illinois, Urbana-Champaign
+  position: NSF Postdoctoral Fellow
+  duration: 2008 &mdash; 2011
+  summary: Research position that successfully solved over 30 year old conjecture in pure mathematics using unexpected methods. 
+    <ul class="resume-item-list"><li> Jointly developed the Rogers-Zudilin method for expressing L-values of elliptic curves as special values of regulators.</li><li>Solved the Deninger/Boyd Mahler measure conjecture for conductor 15 elliptic curves.</li><li>The approach is currently state-of-the-art for proving Bloch-Beilinson type conjectures.</ul>
