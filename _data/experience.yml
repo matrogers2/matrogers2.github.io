@@ -10,12 +10,20 @@
 - company: Via Science
   position: Deep Learning Principle
   duration:  2017 &mdash; 2021
+    #  position: Data Scientist
+    #  duration: 2017 &mdash; 2018
   summary: Numerous projects involving machine learning, data science, and time-series forecasting in the energy sector. <ul class="resume-item-list"><li>Implemented machine learning based data pipelines, in order to ingest heterogenous smart meter data into standarized schemas.</li><li>Fine-tuned and dockerized BERT based models for various NLP related tasks.</li><li>Contributed to federated learning, homeomorphic encryption, and differential privacy projects.</li><li>Prepared project proposals for clients.</li></ul>
 
 
-# Communications Coordinator
+# Machine Learning Scientist
 - company: Clemex Technologies
   position: Machine Learning Scientist
   duration:   2015  &mdash; 2017
   summary: Extensive use of convolutional neural networks, OpenCV, and traditional computer vision while working in the microscope industry. <ul class="resume-item-list"><li>Implemented and fine-tuned state-of-the-art convnets for image classification and segmentation. </li><li>Created numerous datasets ranging from thousands to millions of images from scratch. </li><li>Implemented and queried relational databases for handling training data.</li></ul>
+
+
+- company: MILA, Université de Montréal
+  position: Graduate Student
+  duration: 2014 &mdash; 2015
+  summary: Experience as a student working in the LISA lab (now MILA) developing Theano and Pylearn2. Completed a full graduate-level computer science programme.
 
