@@ -3,19 +3,19 @@
 - company: Shopify
   position: Senior Data Scientist
   duration: 2021 &mdash; 2022
-  summary: Worked on implementing real time metric calculations for the Shopify Inbox platform. Joined and aggregated multiple Kafka streams using Scala and Apache Flink. Utilized various streaming data design patterns, and test-driven development. 
+  summary: Worked on implementing real time metrics for the Shopify Inbox platform. Joined and aggregated multiple Kafka streams using Scala and Apache Flink. Utilized various streaming data design patterns and test-driven development. 
 
 
 # Deep Learning Principle
 - company: Via Science
   position: Deep Learning Principle
   duration:  2017 &mdash; 2021
-  summary: Numerous projects involving machine learning, data science, and time-series forecasting in the energy sector. <ul class="resume-item-list"><li>Prototyped machine learning based data ingestion pipelines, in order to ingest smart meter data from multiple sources into a standarized schema.</li><li>Fine-tuned and dockerized various BERT based models for NLP related tasks.</li><li>Contributed to federated learning, homeomorphic encryption, and differential privacy projects.</li><li>Prepared project proposals for clients.</li></ul>
+  summary: Numerous projects involving machine learning, data science, and time-series forecasting in the energy sector. <ul class="resume-item-list"><li>Implemented machine learning based data pipelines, in order to ingest heterogenous smart meter data into standarized schemas.</li><li>Fine-tuned and dockerized BERT based models for various NLP related tasks.</li><li>Contributed to federated learning, homeomorphic encryption, and differential privacy projects.</li><li>Prepared project proposals for clients.</li></ul>
 
 
 # Communications Coordinator
 - company: Clemex Technologies
   position: Machine Learning Scientist
   duration:   2015  &mdash; 2017
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  summary: Extensive use of convolutional neural networks, OpenCV, and traditional computer vision while working in the microscope industry. <ul class="resume-item-list"><li>Implemented and fine-tuned state-of-the-art convnets for image classification and segmentation. </li><li>Created numerous datasets ranging from thousands to millions of images from scratch. </li><li>Implemented and queried relational databases for handling training data.</li></ul>
 
