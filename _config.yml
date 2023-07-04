@@ -1,55 +1,64 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-title: matrogersmtl.com
-description: > # this means to ignore newlines until "baseurl:"
-  Data science, deep learning, number theory
-repository: https://github.com/matrogersmtl/matrogersmtl.github.io
-baseurl: ""  # the subpath of your site, e.g. /blog
-url: www.matrogersmtl.com  # the base hostname & protocol for your site
+title: "Mathew Rogers Homepage"
+description: "Data science and mathematics"
 
 # Build settings
 markdown: kramdown
-
-# Sass settings
 sass:
+  sass_dir: _sass
   style: compressed
 
-# Theme settings
-theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Mathew Rogers"
+resume_title:                   "Data Scientist and Mathematician"
 
-# Customizations
-your_name: Mathew Rogers
-email: mathewrogers@gmail.com
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "mathewrogers@gmail.com"
 
-navigation:
-  - text: Home
-    url: /
-  - text: About
-    url: /about
-  - text: Blog
-    url: /blog
+# the next two items are used for schema itemprops in _layouts/resume.html
+#resume_contact_telephone:       "555-7334"
+#resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
-social:
-  - service: linkedin
-    username: rogersmontreal
-    link: https://ca.linkedin.com/in/rogersmontreal
-  - service: github
-    username: matrogersmtl
-    link: https://github.com/matrogersmtl
-  - service: twitter
-    username: matrogersmtl
-    link: https://twitter.com/matrogersmtl
-#  - service: instagram
-#    username: matrogersmtl
-#    link: https://instagram.com/matrogersmtl
-#  - service: facebook
-#    username: matrogersmtl
-#    link: https://facebook.com/matrogersmtl
+  #resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+display_header_contact_info:    "false"
 
+resume_header_intro: "<p>I am a data scientist in Montreal. Over the last few years, I have worked in machine learning, streaming data, data science, and computer vision. My various roles have all included a significant software engineering component. My PhD is in number theory with a focus on conjectures relating to elliptic curves. Feel free to reach out, I'm always looking for a challenge!</p>"
 
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          false
+resume_section_recognition:     false
+resume_section_links:           true
+resume_section_associations:    false
+# resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/matrogersmtl"
+  resume_twitter_url:           "http://twitter.com/matrogersmtl"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/rogersmontreal"
+  resume_scholar_url:           "https://scholar.google.ca/citations?user=cnec4HkAAAAJ&hl=fr"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  # resume_website_url:           "http://matrogersmtl.github.io"
+  # resume_medium_url:            "https://medium.com/@jglovier"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts
