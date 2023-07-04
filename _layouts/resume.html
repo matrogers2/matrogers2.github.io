@@ -58,7 +58,7 @@
 
         {% for job in site.data.experience %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
-          <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
+		<h3 class="resume-item-title" itemprop="name"><a href="{{job.company_link}}">{{ job.company }}</a></h3>
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
           <p class="resume-item-copy">{{ job.summary }}</p>
         </div><!-- end of resume-item -->
@@ -230,11 +230,6 @@
       </section>
       <!-- end Print Social Links -->
       {% endif %}
-
-      <footer class="page-footer">
-        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
-      </footer>
 
     </div>
 

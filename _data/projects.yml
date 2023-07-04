@@ -2,15 +2,9 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Check back soon...
+  # role: Founder
+  # duration: 2023 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  # description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut convallis convallis orci, a consectetur dui varius eget. Proin vehicula feugiat tellus, a consectetur urna fermentum eget. 
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
