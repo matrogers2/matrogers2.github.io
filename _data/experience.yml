@@ -14,7 +14,7 @@
   duration:  2018 &mdash; 2021
   position2: Data Scientist
   duration2: 2017 &mdash; 2018
-  summary: Numerous projects involving machine learning, data science, and time-series forecasting in the energy sector. <ul class="resume-item-list"><li>Implemented machine learning based data ingestion pipelines, in order to ingest heterogeneous smart meter data into a standardized schemas.</li><li>Fine-tuned and dockerized BERT based models for various NLP related tasks.</li><li>Contributed to federated learning, homeomorphic encryption, and differential privacy projects.</li><li>Prepared project proposals for clients.</li></ul>
+  summary: Numerous projects involving machine learning, data science, and time-series forecasting in the energy sector. <ul class="resume-item-list"><li>Implemented machine learning based data ingestion pipelines, in order to ingest heterogeneous smart meter data into a standardized schema.</li><li>Fine-tuned and dockerized BERT based models for various NLP related tasks.</li><li>Contributed to federated learning, homeomorphic encryption, and differential privacy projects.</li><li>Prepared project proposals for clients.</li></ul>
 
 
 # Machine Learning Scientist
