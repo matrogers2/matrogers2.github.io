@@ -60,6 +60,9 @@
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name"><a href="{{job.company_link}}">{{ job.company }}</a></h3>
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
+	  {% if job.position2 %}
+          <h4 class="resume-item-details" itemprop="description">{{ job.position2 }} &bull; {{ job.duration2 }}</h4>
+	  {% endif %}
           <p class="resume-item-copy">{{ job.summary }}</p>
         </div><!-- end of resume-item -->
         {% endfor %}
