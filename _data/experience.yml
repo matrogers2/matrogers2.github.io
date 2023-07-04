@@ -14,7 +14,7 @@
   duration:  2018 &mdash; 2021
   position2: Data Scientist
   duration2: 2017 &mdash; 2018
-  summary: Numerous projects involving machine learning, data science, and time-series forecasting in the energy sector. <ul class="resume-item-list"><li>Implemented machine learning based data ingestion pipelines, in order to ingest heterogenous smart meter data into standarized schemas.</li><li>Fine-tuned and dockerized BERT based models for various NLP related tasks.</li><li>Contributed to federated learning, homeomorphic encryption, and differential privacy projects.</li><li>Prepared project proposals for clients.</li></ul>
+  summary: Numerous projects involving machine learning, data science, and time-series forecasting in the energy sector. <ul class="resume-item-list"><li>Implemented machine learning based data ingestion pipelines, in order to ingest heterogeneous smart meter data into a standardized schemas.</li><li>Fine-tuned and dockerized BERT based models for various NLP related tasks.</li><li>Contributed to federated learning, homeomorphic encryption, and differential privacy projects.</li><li>Prepared project proposals for clients.</li></ul>
 
 
 # Machine Learning Scientist
@@ -42,7 +42,7 @@
   position: NSF Postdoctoral Fellow
   duration: 2008 &mdash; 2011
   summary: Research position that successfully solved a 30 year old conjecture in pure mathematics using unexpected methods. 
-    <ul class="resume-item-list"><li> Jointly developed the Rogers-Zudilin method for expressing L-values of elliptic curves as special values of regulators.</li><li>Solved the Deninger/Boyd Mahler measure conjecture for conductor 15 elliptic curves.</li><li>The approach is currently state-of-the-art in the area.</ul>
+    <ul class="resume-item-list"><li> Jointly developed the Rogers-Zudilin method for expressing L-values of elliptic curves as special values of regulators.</li><li>Solved the Deninger-Boyd Mahler measure conjecture for conductor 15 elliptic curves.</li><li>The approach is currently state-of-the-art in the area.</ul>
 
 - company: Max Planck Institute for Mathematics, Bonn
   company_link: https://www.mpim-bonn.mpg.de/
