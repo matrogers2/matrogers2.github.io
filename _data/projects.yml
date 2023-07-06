@@ -4,10 +4,12 @@
 # jazznotes.io
 - project: Patents
   duration: 2017 &mdash; 2021
-  description: 
+  description:
+   <ul class="resume-item-list">
     <li><em>Secure data processing</em>, MD Rogers, KC Cheung, J Taylor, US10972261</li>
     <li><em>Secure data processing</em>, KC Cheung, J Taylor, M Rogers, C Gounden, US11038683</li>
     <li><em> Multiple data source secure data processing</em>, KC Cheung, M Rogers, J Taylor, US11489659</li>
+   </ul>
 
 - project: Published Papers in Mathematics
   duration: 2005 &mdash; 2013
