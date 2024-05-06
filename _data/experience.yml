@@ -4,17 +4,17 @@
   company_link: https://www.shopify.com
   position: Senior Data Scientist
   duration: 2021 &mdash; 2022
-  summary: Worked on implementing real time metrics for the Shopify platform. Joined and aggregated multiple Kafka streams using Scala and Apache Flink. Utilized various streaming data algorithms and test-driven development. 
+  summary: Implemented real time metrics for the Shopify platform. Joined and aggregated multiple Kafka streams using Scala and Apache Flink. Utilized various streaming data algorithms and test-driven development. 
 
 
-# Deep Learning Principle
+# Deep Learning Principal
 - company: Via Science
   company_link: https://solvewithvia.com
-  position: Deep Learning Principle
+  position: Deep Learning Principal
   duration:  2018 &mdash; 2021
   position2: Data Scientist
   duration2: 2017 &mdash; 2018
-  summary: Numerous projects involving machine learning, data science, and time-series forecasting in the energy sector. <ul class="resume-item-list"><li>Implemented machine learning based data ingestion pipelines, in order to ingest heterogeneous smart meter data into a standardized schema.</li><li>Fine-tuned and dockerized BERT based models for various NLP related tasks.</li><li>Contributed to federated learning, homeomorphic encryption, and differential privacy projects.</li><li>Prepared project proposals for clients.</li></ul>
+  summary: Projects involving machine learning, data science, and time-series forecasting in the energy sector. <ul class="resume-item-list"><li>Implemented machine learning based data ingestion pipelines, in order to ingest heterogeneous smart meter data into a standardized schema.</li><li>Fine-tuned and dockerized BERT based models for NLP related tasks.</li><li>Contributed to federated learning, homomorphic encryption, and differential privacy projects.</li><li>Prepared project proposals for clients.</li></ul>
 
 
 # Machine Learning Scientist
